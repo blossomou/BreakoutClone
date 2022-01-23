@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6800617992626107542}
   - component: {fileID: 689243076053339562}
   m_Layer: 0
-  m_Name: Brick
+  m_Name: Brick1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -108,7 +108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95d6e66a26f93fa6cb4308a7e41bbe15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hits: 2
+  hits: 1
   points: 100
   rotator: {x: 45, y: 0, z: 0}
   hitMaterial: {fileID: 2100000, guid: 0ea967b2c1729fbe28b852078ac7fba4, type: 2}
