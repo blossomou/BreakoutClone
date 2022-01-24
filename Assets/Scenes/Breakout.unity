@@ -1070,8 +1070,8 @@ MonoBehaviour:
   panelLevelCompleted: {fileID: 208430623}
   panelGameOver: {fileID: 439960417}
   levels:
-  - {fileID: 8762489697854395223, guid: bf34e2d01016da7da8a7f1ea6681d55b, type: 3}
-  - {fileID: 8762489697854395223, guid: 082af078cb95f16b7966786312b09aa4, type: 3}
+  - {fileID: 6191854164788877706, guid: bf34e2d01016da7da8a7f1ea6681d55b, type: 3}
+  - {fileID: 6191854164788877706, guid: 684121091c2da9fb98941f17ca814610, type: 3}
 --- !u!4 &909950804
 Transform:
   m_ObjectHideFlags: 0
